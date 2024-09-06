@@ -2,4 +2,9 @@ body
 {
 background-color:cyan;
 border-style: dotted;
+border-color: lime;
+border-width: 25px;
+}
+.second{
+    font-size:5em;
 }
